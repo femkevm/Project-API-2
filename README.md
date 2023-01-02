@@ -18,8 +18,10 @@ Ik heb gebruik gemaakt van 4 POSTS (1 voor de security (acces token), 1 om een s
 
 Op mijn front-end heb ik 2 gets en 1 post gezet. Ik heb 1 GET om alle spelers op te vragen en 1 GET om een speler op id op te vragen. Ook heb ik op mijn front-end een post gezet om een speler aan te maken.
 
-Foto:
+Foto's:
 
+![images/frontend1.png](images/frontend1.png)
+![images/frontend2.png](images/frontend2.png)
 
 **Link naar frond-end Github Repository:**
 
