@@ -1,6 +1,6 @@
 version: "3.9"
 services:
- useritem-api-services:
+ useritem-api-service:
   image: femkevm/python-api-project
   ports:
     - "8000:8000"
@@ -8,4 +8,4 @@ services:
     - sqlite_useritem_volume:/code/sqlitedb
 
 volumes:
-  sqlite_useritem_volumes:
+  sqlite_useritem_volume:
