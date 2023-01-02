@@ -11,6 +11,9 @@ Voor dit project heb ik het onderwerp 'Rode Duivels' gekozen. Men kan een speler
 
 Ik heb gebruik gemaakt van 4 POSTS (1 voor de security (acces token), 1 om een speler aan te maken, 1 voor een enkelspel aan te maken voor een speler en dan nog 1 om een dubbelspel aan te maken voor een speler), ook heb ik 3 DELETES aangemaakt( 1 om spelers te kunnen verwijderen, 1 om een enkelspel van een speler te verwijderen en 1 om een dubbelspel van een speler te verwijderen), daarnaast heb ik 4 GETS (1 om spelers te lezen met authenticatie, 1 om spelers te lezen zonder authenticatie, 1 om enkelspel van een speler te lezen en 1 om dubbelspel van een speler te lezen) en als laatste heb ik er ook nog een PUT aan toegevoegd. Deze kan spelers op ID updaten.
 
+![images/overzicht-fastapi.png](images/overzicht-fastapi.png)
+
+
 **Beschrijving front-end:**
 
 Op mijn front-end heb ik 2 gets en 1 post gezet. Ik heb 1 GET om alle spelers op te vragen en 1 GET om een speler op id op te vragen. Ook heb ik op mijn front-end een post gezet om een speler aan te maken.
