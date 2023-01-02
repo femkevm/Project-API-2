@@ -37,4 +37,18 @@ https://frontend-project-2.netlify.app/
 
 **OpenAPI docs screenshots:**
 
-
+![images/api1.png](images/api1.png)
+![images/api2.png](images/api2.png)
+![images/api3.png](images/api3.png)
+![images/api4.png](images/api4.png)
+![images/api5.png](images/api5.png)
+![images/api6.png](images/api6.png)
+![images/api7.png](images/api7.png)
+![images/api8.png](images/api8.png)
+![images/api9.png](images/api9.png)
+![images/api10.png](images/api10.png)
+![images/api11.png](images/api11.png)
+![images/api12.png](images/api12.png)
+![images/api13.png](images/api13.png)
+![images/api14.png](images/api14.png)
+![images/api15.png](images/api15.png)
