@@ -34,6 +34,19 @@ https://frontend-project-2.netlify.app/
 
 **Werking API door screenshots van Postman:**
 
+![images/post3.png](images/post3.png)
+![images/post4.png](images/post4.png)
+![images/post5.png](images/post5.png)
+![images/post6.png](images/post6.png)
+![images/post7.png](images/post7.png)
+![images/post8.png](images/post8.png)
+![images/post9.png](images/post9.png)
+![images/post10.png](images/post10.png)
+![images/post11.png](images/post11.png)
+![images/post12.png](images/post12.png)
+![images/post13.png](images/post13.png)
+
+
 
 **OpenAPI docs screenshots:**
 
