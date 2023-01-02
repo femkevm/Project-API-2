@@ -1,7 +1,7 @@
 version: "3.9"
 services:
  useritem-api-service:
-  image: femkevm/python-db-project
+  image: femkevm/python-api-project
   ports:
     - "8000:8000"
   volumes:
