@@ -34,6 +34,8 @@ https://frontend-project-2.netlify.app/
 
 **Werking API door screenshots van Postman:**
 
+![images/post3.png](images/post14.png)
+![images/post3.png](images/post15.png)
 ![images/post3.png](images/post3.png)
 ![images/post4.png](images/post4.png)
 ![images/post5.png](images/post5.png)
